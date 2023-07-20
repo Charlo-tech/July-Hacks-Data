@@ -1,5 +1,6 @@
-![Screenshot (78)](https://github.com/Charlo-tech/July-Hacks-Data/assets/57678615/3354b99f-e9fd-4214-80cf-8a0707c460e3)
-![Uploading Screenshot (77).png…]()
+
+
+
 # July-Hacks-Data
 
 
@@ -8,10 +9,11 @@ The data is from https://www.kaggle.com/datasets/rohanpatil63/pokemon-dataset
 
 A live version of the deployed web app can be found [here](https://poke-data23.netlify.app/).
 The Jupyter Visualization can be found [here](https://github.com/Charlo-tech/July-Hacks-Data/blob/main/pokemon.ipynb)
+![Screenshot (78)](https://github.com/Charlo-tech/July-Hacks-Data/assets/57678615/3354b99f-e9fd-4214-80cf-8a0707c460e3)
+![Screenshot (79)](https://github.com/Charlo-tech/July-Hacks-Data/assets/57678615/bab1ff09-ad30-40e5-bdf9-f94bfda0f3c9)
 
-![Uploading Screenshot (76).png…]()
-![Uploading Screenshot (79).png…]()
-
+![Screenshot (77)](https://github.com/Charlo-tech/July-Hacks-Data/assets/57678615/b7649707-371a-4fe8-975e-9065aac02f56)
+![Screenshot (76)](https://github.com/Charlo-tech/July-Hacks-Data/assets/57678615/8e55443d-3420-4eb9-8bb7-8437227e4ecc)
 
 
 # Libraries used
