@@ -1,5 +1,6 @@
 import Header from "./Header";
 import Piechart from "./Piechart";
+//import Jup from "./Jup";
 
 const Visuals = () => {
     return (
@@ -9,6 +10,9 @@ const Visuals = () => {
                 <h1 className="visuals-title">PieChart Visualization</h1>
                 <Piechart />
             </div>
+            {/* <div className="jupyter-container">
+                <Jup />
+            </div> */}
         </>
     );
 }
