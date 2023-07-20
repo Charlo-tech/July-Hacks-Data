@@ -1,12 +1,16 @@
+![Screenshot (78)](https://github.com/Charlo-tech/July-Hacks-Data/assets/57678615/3354b99f-e9fd-4214-80cf-8a0707c460e3)
+![Uploading Screenshot (77).png…]()
 # July-Hacks-Data
 
 
 This is a pokemon data visualization built using React, Jupyter notebooks and pokemon api.
 The data is from https://www.kaggle.com/datasets/rohanpatil63/pokemon-dataset
 
-A live version of the deployed web app can be found [here](https://charlo-tech-data-visuals-angelhack-main-l2kag3.streamlit.app/).
+A live version of the deployed web app can be found [here](https://poke-data23.netlify.app/).
 The Jupyter Visualization can be found [here](https://github.com/Charlo-tech/July-Hacks-Data/blob/main/pokemon.ipynb)
 
+![Uploading Screenshot (76).png…]()
+![Uploading Screenshot (79).png…]()
 
 
 
@@ -52,5 +56,9 @@ The visualization tells the story of different pokemons and their strengths and 
 We considered jupyter notebooks for the visualization but we wanted the portability of a web app, and so we settled on react to sharpen our API knowledge and have a clean look.
 
 # Video demo
+
+
+https://github.com/Charlo-tech/July-Hacks-Data/assets/57678615/0c3590d4-749a-4ef7-977f-44996e8f0421
+
 
 
